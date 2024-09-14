@@ -1,6 +1,0 @@
-{
-    "java.configuration.updateBuildConfiguration": "interactive",
-    "yaml.schemas": {
-        "https://json.schemastore.org/bukkit-plugin.json": "file:///c%3A/theEverythingFolder/VSCode/lorecraft-bot/discordbot/src/main/resources/plugin.yml"
-    }
-}
