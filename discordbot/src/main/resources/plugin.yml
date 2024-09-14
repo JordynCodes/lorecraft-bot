@@ -1,0 +1,4 @@
+name: discordbot
+main: me.jordyn.discordbot.Plugin
+version: 1.0.0
+api-version: '1.21'
