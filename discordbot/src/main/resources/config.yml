@@ -1,3 +1,5 @@
 webhook-url: ''
 
 enable-chat-logger: true
+enable-join-logger: true
+enable-leave-logger: true
